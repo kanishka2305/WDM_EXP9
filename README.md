@@ -1,5 +1,5 @@
-### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### EX9: Preprocessing on Twitter Data using Rapidminer
+### DATE: 24:08:2024
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +26,11 @@ for this purpose.
 
 
 ### Output:
+![wd exp 9(1)](https://github.com/user-attachments/assets/7458fb1a-4efc-4e09-b0c8-363f50e1e108)
+
+![wd exp 9(2)](https://github.com/user-attachments/assets/13f9fefa-7747-456a-9dac-70a1ee5795fa)
+
+![wd exp(3)](https://github.com/user-attachments/assets/2a2551d6-339a-406b-8de0-bbb9c22e1ee5)
 
 ### Result:
+Thus, the preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
